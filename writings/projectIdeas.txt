@@ -1,0 +1,61 @@
+project ideas:
+
+liber8: searchable table for code
+program name	author	description	date created	last updated	location	misc
+
+redOctober: edit subtitle (svr?) files to mass-change times
+
+messages`from`the`HEART: automated messaging service
+
+Jabber.Zen: markov chain poetry generator
+
+Austruck: image analyzer and graphics manipulator
+
+Maguli: CS tutorials
+
+MovieTalkie: film quotes (and recommendations?)!
+
+waIawIam? (where am I and what is around me?): google maps (opensourcemaps) api
+
+wall.ace: inspirational quotes!
+
+WellWellWell: book recommendations/quotes, library finder.
+
+gALL: microbe kingdom, thread of life, bio stuff.
+
+Tell Me Good Things About Me: wholesome point and click.
+
+flower garden: personal recommendations (sssscomic.com, gustav photos, favorite movies/books/music)
+
+IT'S ALIVE!!!: scripts/packages/dotfiles for sublime text/ubuntu post install
+
+saveMeFromMyself: Tab counter/limiter for firefox/chrome 
+
+Attack -> of -> the -> ART (aotART): art folder, searchable, addable
+
+Help! I need somebody /: pyschologist finder
+
+BigD's DoubleD Countdown: 'Da Don's Dynamic Double Duty Downcount!
+
+Make People Think You're ________ : Point and click script for making people think you're {interesting, sexy, intelligent, selfless, etc.}
+
+I LOVE?HATE HUMAN?ROBOT: double sided paper explaining love for _______ (thing that will take over the world eventually.) + hate for thing that will be destroyed.
+
+F*!% History (free history): alternative history/timecapsule (i.e. I was super popular with the ladies!)
+
+ISHMAEL: text analyzer (number of vowels/consonants in moby dick, uploadable text)
+
+perversePleasure: (tounge in cheek) upload code and output allman style indents.
+
+BOOKmyFACE: facebook api?
+
+Sir Cryalot: crying (animation), type nice words to make feel better.
+
+XisEssential: existential helper
+
+Ya Gotta be Kidzing!: check if there is a kidz bop equivalent to a song.
+
+i^{icecream}: ice cream finder (google, openmaps)
+
+
+

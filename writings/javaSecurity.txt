@@ -1,0 +1,30 @@
+
+
+Java Security
+by Joseph A. Bank (a former masters student at MIT)
+Dec 8 1995 *
+
+Quick Note:
+While the article itself is a bit dated ("Java is a new programming language from Sun Microsystems (currently in beta release)"), it does present a great overview of Java's underlying architecture during it's creation. And though it's changed considerably since release, looking at it's early stages provides a window into Java's past, present, and future as a programming language. 
+
+-------------------------------------------------------------------------------------
+
+Java Security is a short article by Joseph A. Bank that explores common computer vulnerabilities and potential solutions offered by the Java language. Bank classifies security attacks into four categories:
+       
+Integrity Attacks — the unwanted modification of memory blocks, critical files, and file systems.
+Availability Attacks — hoarding memory and CPU resources.
+Disclosure Attacks — stealing personal information such as passwords or private files.
+Annoyance Attacks — displaying unwanted visual or auditory messages.
+
+The nature of Java to strive for "write once, run anywhere" places considerable risk of falling victim to the above attacks. Since users can simply download Java code over a network and run through a local browser — regardless of machine type — malicious code obtain access to host resources and disrupt processes and threads, leading to damaging effects. In order to limit such occurrences, Java has three major levels of program verification:
+
+Language level — getter/accessor and setter/mutator methods that keeps private methods and data from being changed or otherwise damaged by outside sources.
+Library level — standard methods such as classLoader that are built specifically to deal with outside code. These methods take network-transmitted classes and compile them into local bytecode ready to be run on a host machine.
+Browser level — digital signatures and hash encryption designed to give the user a way to verify that the code comes from the source with being tampered.
+       
+It is interesting to note that vulnerabilities brought up in this 1995 article have persisted to recent Java security attacks**. Like any programming language, Java continues to evolve in ways that serve it's userbase while limiting security threats. In this way, Java skirts a fine balance between giving as much flexibility as possible, while maintaining a suitable level of safety in return. Concluding his article, Banks explains that "The security measures of Java provide the ability to tilt this balance whichever way is preferable." It is then up to the user to determine how they will work with and shape Java to their own needs.
+
+-------------------------------------------------------------------------------------
+
+*  http://groups.csail.mit.edu/mac/users/jbank/javapaper/javapaper.html
+** https://arstechnica.com/security/2013/03/another-java-zero-day-exploit-in-the-wild-actively-attacking-targets/
