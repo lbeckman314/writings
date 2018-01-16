@@ -6,7 +6,7 @@ Don't look, here they come:
         come to give me my diploma before i've finished
             the courses.
 they hand it to me. i've yet to finish, I tell them.
-    they look so disgusted, and take it back.
+    they look disgusted, and take it back.
 
 Leave and two men in dark suits appear,
     come to take me away, humiliate
