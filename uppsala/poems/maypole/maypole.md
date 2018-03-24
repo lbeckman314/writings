@@ -19,7 +19,7 @@ Are you asleep now young doe?
 While you, young foolish doe,
     lie alone in a different time —
         after the harvest, after the
-            end of all this, read to
+            end of all this, ready to
                 sleep.
 
 So sleep now, sleep now young dow,

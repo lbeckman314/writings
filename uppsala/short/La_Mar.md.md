@@ -1,4 +1,3 @@
-```
 Have I told you our story boy? How our family came to be _the_ family?
 
 No grandfather, tell me the story.
@@ -12,4 +11,22 @@ Oh! That's good! That's good... And you work hard, that's all that matters, ever
 You know... you're reaching beyond me Cri. I've known it for quite some time, I can't tell you how proud that makes me. I've done all I can, I've done what is right to do. I pray that you will feel this one day.
 
 Thank you, grandfather.
-```
+
+
+Oh my love
+we were younger when we ment
+we were younger when you left
+far away to distant shores
+but I still love you forevermore
+
+
+Oh my love
+I have wasted all my days
+on thoughts of you, your loving gaze
+Though you be so far
+I'll sail the sea, I'll sail la mar
+
+
+
+They call it the sea
+They call is la mar
