@@ -1,3 +1,8 @@
+---
+layout: my-default
+title: who are you?
+date: 2015-12-01
+---
 ```
 Who are you?
 I am the one man battlefield
@@ -15,9 +20,9 @@ And so all that is left
         all that may be found
 is the sole and weary’d
         beaten
-                beathen
+                beaten
                         down.
 
 
-"Who are you
+"Who are you?"
 ```

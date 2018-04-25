@@ -1,8 +1,15 @@
+---
+layout: my-default
+title: Shy behaviors
+desc: What does it sound like to you // when you brush your hair // behind your ear?...
+date: 2014-03-01
+---
+
 ```
 What does it sound like to you
     when you brush your hair
         behind your ear?
-The forgiving wing on warm leaves?
+The forgiving wind on warm leaves?
 The whisper of whiskers wishing only
 to please?
 The sigh of linen bearing the fullness
@@ -11,11 +18,11 @@ What does it sound like?
 
 
 Let it remain a world of grains, sand and wheat
-and all things (pleasant and lasting) lasting and plesant
+and all things pleasant and lasting
     falling across, curving beyond an eclipse
 
 
-For one of the things you are to me--
+For one of the things you are to me —
     a heart of eden
         an amber radiance
             a forgotten world.
@@ -23,3 +30,4 @@ For one of the things you are to me--
 
 “Shy Behaviors”
 ```
+

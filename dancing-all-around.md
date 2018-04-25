@@ -1,3 +1,10 @@
+---
+layout: my-default
+title: dancing all around
+desc: We are clockwork you and I // clockwork until the day we die...
+date: 2015-11-10
+---
+
 ```
 We are clockwork you and I
 clockwork until the day we die.
@@ -43,3 +50,4 @@ Let us stop for now, and enjoy what time we have.
 
 "Dancing all around"
 ```
+

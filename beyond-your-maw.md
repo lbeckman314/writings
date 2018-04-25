@@ -1,6 +1,13 @@
+---
+layout: my-default
+title: beyond your maw
+desc: my last love stepped off the bus and onto the walk // among so many i did not know...
+date: 2016-02-01
+---
+
 ```
 My last love stepped off the bus and onto the walk
-with/among so many (people) I did not know
+among so many I did not know
 whom I recognized not
 
 
@@ -36,3 +43,4 @@ with enough meat for now.
 
 "Beyond your maw"
 ```
+

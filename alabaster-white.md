@@ -1,3 +1,9 @@
+---
+layout: my-default
+title: alabaster white
+date: 2016-11-01
+---
+
 ```
 A Monster approaches my home,
     beckoning me to let it in.
