@@ -1,3 +1,8 @@
+---
+title: Night Terrors (afraid of the water)
+date: 2017-01-01
+---
+
 ```
 You told to me to look towards the north
 From wence I would find
@@ -16,6 +21,4 @@ So you must never venture forth
     into these lands,
 For they belong to the
      shivering, desolate, sorry man.
-
-"Night Terrors (afraid of the water)"
 ```
