@@ -2,7 +2,7 @@
 
 "No grandfather, tell me the story."
 
-"When I was your your age, my father came to me a nd I knew what he was going to say--and I was so _excited_. I had studied as hard as I could everyday, reading and rereading the texts. Every night I would pray to read faster, to learn mire, because even then I knew I would have children of my own one day, and they would have their own children.  I wanted you to know that everything I did, I did for you and Zyra..."
+"When I was your your age, my father came to me and I knew what he was going to say — and I was so _excited_. I had studied as hard as I could everyday, reading and rereading the texts. Every night I would pray to read faster, to learn mire, because even then I knew I would have children of my own one day, and they would have their own children.  I wanted you to know that everything I did, I did for you and Zyra..."
 
 Grandfather stopped for a moment, a milky look in his eyes. Slowly, his voice deeper, he resumed his thought.
 
@@ -16,16 +16,11 @@ The boy knew exactly what to say in return, how to say it to please the grandfat
 
 Another silence. The grandfather's richer voice returned.
 
-"You know... you're reaching beyond me Cri. I've known it for quite some time, I can't tell you how proud that makes me. I've done all I can, I've done what is right to do. I pray that you will feel this one day."
+"You know... you're reaching beyond me. I've known it for quite some time, I can't tell you how proud that makes me. I've done all I can, I've done what is right to do. I pray that you will feel this one day."
 
 "Thank you, grandfather."
 
------
-
-The boy held a bounded book, an old one. He had been entrusted to retrieve it by a major aunt from a minor branch of the family. She was one of those people who did not trust the official archives in matters of dispute. Such people must always check the historic records before conceding their challenge of the lineage. In some places, the boy's aunt would be threatened with excission. But here, among family members, it was something to be tolerated for the sake of peace. By providing her the information in the book, such a quarrel would soon die down.
-
-Among the elite, questions of veracity were common forms of jostling. The questions became more serious if they involved cases of lost or stolen bodies that could not be exhumed and tested. Or in rare cases, of tampered records by ... whom? The boy had heard of shadowy factions sent by rival families changing the state records to sow distrubances among their enemies. If the head of one family had the genetic print of a common family, what did that mean for the future of his descendants? Fueled by such questions, and turned upon by various major family memebers, the head could be struck down, and their children and grandchildren removed to be replaced by those with secure records. Rumors of night-time slaughters of such families circled among the boy's classmates.
-
+----
 
 Oh my love
 we were younger when we met
@@ -36,11 +31,19 @@ but I still love you forevermore
 Oh my love
 I have wasted all my days
 on thoughts of you, your loving gaze
-Though you be so far
+though you be so far
 I'll sail the sea, I'll sail la mar
 
 They call it the sea
 We call it la mar
+
+-----
+
+The boy held a bounded book, an old one. He had been entrusted to retrieve it by a major aunt from a minor branch of the family. She was one of those people who did not trust the official archives in matters of dispute. Such people must always check the historic records before conceding their challenge of the lineage. In some places, the boy's aunt would be threatened with excission. But here, among family members, it was something to be tolerated for the sake of peace. By providing her the information in the book, such a quarrel would soon die down.
+
+Among the elite, questions of veracity were common forms of jostling. The questions became more serious if they involved cases of lost or stolen bodies that could not be exhumed and tested. Or in rare cases, of tampered records by ... whom? The boy had heard of shadowy factions sent by rival families changing the state records to sow distrubances among their enemies. If the head of one family had the genetic print of a common family, what did that mean for the future of his descendants? Fueled by such questions, and turned upon by various major family memebers, the head could be struck down, and their children and grandchildren removed to be replaced by those with secure records. Rumors of night-time slaughters of such families circled among the boy's classmates.
+
+
 
 -----
 
